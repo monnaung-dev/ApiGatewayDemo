@@ -1,0 +1,14 @@
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.deps.json
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.json
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.dev.json
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.dll
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.pdb
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csproj.CoreCompileInputs.cache
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cache
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cs
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfoInputs.cache
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfo.cs
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorTargetAssemblyInfo.cache
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.dll
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.pdb
+D:\Docker_Compose\OcelotApiGatewayDemo\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csprojAssemblyReference.cache
